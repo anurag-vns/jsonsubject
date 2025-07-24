@@ -2,17 +2,17 @@
     {
         "subjectNo": 1,
         "subjectName": "React",
-        "quizListUrl": "https://anurag-vns.github.io/anuragjson/js-quizzes.json"
+        "quizListUrl": "https://anurag-vns.github.io/jsonsubject/react.json"
     },
     {
         "subjectNo": 2,
         "subjectName": "MongoDB",
-        "quizListUrl": "https://anurag-vns.github.io/anuragjson/react-quizzes.json"
+        "quizListUrl": "https://anurag-vns.github.io/jsonsubject/mongodb.json"
     },
 
     {
         "subjectNo":3,
         "subjectName":"Python",
-        "quizListUrl":"https://anurag-vns.github.io/anuragjson/python-quizzes.json"
+        "quizListUrl":"https://anurag-vns.github.io/jsonsubject/python.json"
     }
 ]
