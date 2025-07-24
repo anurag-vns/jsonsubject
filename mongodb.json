@@ -1,0 +1,12 @@
+[
+  {
+    "question": "What type of database is MongoDB?",
+    "options": ["SQL", "NoSQL", "Graph", "Time-series"],
+    "answer": "NoSQL"
+  },
+  {
+    "question": "Which query language does MongoDB use?",
+    "options": ["SQL", "MongoQL", "MQL", "JSONQL"],
+    "answer": "MQL"
+  }
+]
