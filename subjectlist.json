@@ -1,0 +1,18 @@
+[
+    {
+        "subjectNo": 1,
+        "subjectName": "React",
+        "quizListUrl": "https://anurag-vns.github.io/anuragjson/js-quizzes.json"
+    },
+    {
+        "subjectNo": 2,
+        "subjectName": "MongoDB",
+        "quizListUrl": "https://anurag-vns.github.io/anuragjson/react-quizzes.json"
+    },
+
+    {
+        "subjectNo":3,
+        "subjectName":"Python",
+        "quizListUrl":"https://anurag-vns.github.io/anuragjson/python-quizzes.json"
+    }
+]

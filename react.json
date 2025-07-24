@@ -1,0 +1,12 @@
+[
+     {
+    "question": "What is React primarily used for?",
+    "options": ["Database", "UI", "Backend", "Security"],
+    "answer": "UI"
+  },
+  {
+    "question": "Who developed React?",
+    "options": ["Google", "Microsoft", "Facebook", "Amazon"],
+    "answer": "Facebook"
+  }
+]

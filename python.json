@@ -1,0 +1,12 @@
+[
+  {
+    "question": "Who created Python?",
+    "options": ["Dennis Ritchie", "James Gosling", "Guido van Rossum", "Brendan Eich"],
+    "answer": "Guido van Rossum"
+  },
+  {
+    "question": "What keyword is used to define a function in Python?",
+    "options": ["function", "def", "fun", "define"],
+    "answer": "def"
+  }
+]
