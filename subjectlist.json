@@ -7,12 +7,12 @@
     {
         "subjectNo": 2,
         "subjectName": "MongoDB",
-        "quizListUrl": "https://anurag-vns.github.io/jsonsubject/mongo.json"
+        "quizListUrl": "https://anurag-vns.github.io/jsonsubject/mangodbquiz.json"
     },
 
     {
         "subjectNo":3,
         "subjectName":"Python",
-        "quizListUrl":"https://anurag-vns.github.io/jsonsubject/python.json"
+        "quizListUrl":"https://anurag-vns.github.io/jsonsubject/pythonquiz.json"
     }
 ]
