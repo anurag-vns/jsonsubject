@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "cityId": 1,
+        "name": "Kashi Vishwanath Temple"
+    },
+    {
+        "id": 2,
+        "cityId": 1,
+        "name": "Ganga Ghat"
+    },
+    {
+        "id": 3,
+        "cityId": 2,
+        "name": "sankat mochan"
+    },
+    {
+        "id": 4,
+        "cityId": 3,
+        "name": "Gateway of India"
+    },
+    {
+        "id": 5,
+        "cityId": 3,
+        "name": "Marine Drive"
+    },
+    {
+        "id": 6,
+        "cityId": 4,
+        "name": "Juhu Chaupati  "
+    }
+]

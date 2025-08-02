@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "stateId": 1,
+    "name": "Varanasi"
+  },
+  {
+    "id": 2,
+    "stateId": 1,
+    "name": "Lucknow"
+  },
+  {
+    "id": 3,
+    "stateId": 2,
+    "name": "Mumbai"
+  },
+  {
+    "id": 4,
+    "stateId": 2,
+    "name": "Pune"
+  }
+]
